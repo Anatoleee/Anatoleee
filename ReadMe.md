@@ -1,5 +1,5 @@
 # 💫 About Me:
-🇫🇷 : French<br>🧓 : 14 yo<br>🇬🇧 : Speak English<br>🇸🇪 : Learning Swedish<br>👨‍💻 : Learning Minecraft Java plugin development<br>💼 : 9th grade equivalent in france (2024)<br>🎥 : Video Editor
+🇫🇷 : French<br>🧓 : 14 yo<br>🇬🇧 : Speak English<br>🇸🇪 : Learn Swedish<br>👨‍💻 : Learn Minecraft Java plugin development<br>💼 : 9th grade equivalent<br>🎥 : Video Editor
 
 
 ## 🌐 Socials:
