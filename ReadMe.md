@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧓 : 14 yo<br>🇫🇷 : French<br>🇬🇧 : Speak English<br>🇸🇪 : Learn Swedish<br>🖥️ : Love doing random things with servers and want to be a SysAdmin/Developper<br>👨‍💻 : HTML/CSS/PHP, Java(MC), Python, Dart/Flutter, C++ Developper<br>💼 : 9th grade equivalent<br>🎥 : Youtube Video Editor 
+🧓 : 14 yo<br>🇫🇷 : French<br>🇬🇧 : Speak English<br>🇸🇪 : Learn Swedish<br>🖥️ : Love doing random things with servers and want to be a SysAdmin/Developper<br>👨‍💻 : HTML/CSS/PHP, Java(MC), Python Developper<br>💼 : 9th grade equivalent<br>🎥 : Youtube Video Editor 
 
 
 ## 🌐 Socials:
